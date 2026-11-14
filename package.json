@@ -1,0 +1,1 @@
+{"name": "expense-budget-visualizer", "version": "1.0.0", "description": "Track expenses and visualize spending by category.", "type": "module", "private": true, "scripts": {"test": "vitest --run"}, "devDependencies": {"fast-check": "^4.10.2", "jsdom": "^31.0.1", "vitest": "^5.1.0"}}

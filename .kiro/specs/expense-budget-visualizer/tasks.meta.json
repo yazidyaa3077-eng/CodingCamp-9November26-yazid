@@ -1,0 +1,100 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create directory structure, package.json, and test configuration": [
+      {
+        "executionId": "73b1fdce-3cd4-453e-b56c-d9eb3b0f7dc8",
+        "chatSessionId": "sess_f28e0f10-1abc-4982-a9c1-baf1ec452722",
+        "timestamp": 1794576059254
+      },
+      {
+        "executionId": "73b1fdce-3cd4-453e-b56c-d9eb3b0f7dc8",
+        "chatSessionId": "sess_f28e0f10-1abc-4982-a9c1-baf1ec452722",
+        "timestamp": 1794584710208
+      }
+    ],
+    "1.2 Create index.html with all semantic regions and element IDs": [
+      {
+        "executionId": "73b1fdce-3cd4-453e-b56c-d9eb3b0f7dc8",
+        "chatSessionId": "sess_f28e0f10-1abc-4982-a9c1-baf1ec452722",
+        "timestamp": 1794576059959
+      },
+      {
+        "executionId": "73b1fdce-3cd4-453e-b56c-d9eb3b0f7dc8",
+        "chatSessionId": "sess_f28e0f10-1abc-4982-a9c1-baf1ec452722",
+        "timestamp": 1794576526902
+      }
+    ],
+    "1. Set up project structure and test framework": [
+      {
+        "executionId": "73b1fdce-3cd4-453e-b56c-d9eb3b0f7dc8",
+        "chatSessionId": "sess_f28e0f10-1abc-4982-a9c1-baf1ec452722",
+        "timestamp": 1794584710557
+      }
+    ],
+    "7.1 Create css/style.css with clean, minimal, responsive interface": [
+      {
+        "executionId": "7e671126-e567-4663-94a8-f9488e1e6ed2",
+        "chatSessionId": "sess_e792d328-1419-4a88-8408-54c7bdbc2e53",
+        "timestamp": 1794584761091
+      },
+      {
+        "executionId": "7e671126-e567-4663-94a8-f9488e1e6ed2",
+        "chatSessionId": "sess_e792d328-1419-4a88-8408-54c7bdbc2e53",
+        "timestamp": 1794584932092
+      }
+    ],
+    "7. Implement CSS styling": [
+      {
+        "executionId": "7e671126-e567-4663-94a8-f9488e1e6ed2",
+        "chatSessionId": "sess_e792d328-1419-4a88-8408-54c7bdbc2e53",
+        "timestamp": 1794584932286
+      }
+    ],
+    "2.1 Implement validateItemName, validateAmount, validateCategory, and validateTransaction in js/app.js": [
+      {
+        "executionId": "66c4071a-0b26-4913-89b0-0e2dac5a22f9",
+        "chatSessionId": "sess_8ccfdfb4-439d-41b6-b914-c2b00a7383a1",
+        "timestamp": 1794584978680
+      },
+      {
+        "executionId": "66c4071a-0b26-4913-89b0-0e2dac5a22f9",
+        "chatSessionId": "sess_8ccfdfb4-439d-41b6-b914-c2b00a7383a1",
+        "timestamp": 1794585467852
+      }
+    ],
+    "2. Implement pure logic layer — validation functions": [
+      {
+        "executionId": "66c4071a-0b26-4913-89b0-0e2dac5a22f9",
+        "chatSessionId": "sess_8ccfdfb4-439d-41b6-b914-c2b00a7383a1",
+        "timestamp": 1794585468092
+      }
+    ],
+    "3.1 Implement computeTotalBalance and aggregateByCategory in js/app.js": [
+      {
+        "executionId": "d69ffbed-523e-41ac-8816-1f3770f731b2",
+        "chatSessionId": "sess_6291d071-8e3f-4446-997f-e1255ca492b3",
+        "timestamp": 1794585567491
+      },
+      {
+        "executionId": "d69ffbed-523e-41ac-8816-1f3770f731b2",
+        "chatSessionId": "sess_6291d071-8e3f-4446-997f-e1255ca492b3",
+        "timestamp": 1794585822677
+      }
+    ],
+    "3. Implement pure logic layer — computation functions": [
+      {
+        "executionId": "d69ffbed-523e-41ac-8816-1f3770f731b2",
+        "chatSessionId": "sess_6291d071-8e3f-4446-997f-e1255ca492b3",
+        "timestamp": 1794585822971
+      }
+    ],
+    "4.1 Implement serializeTransactions and deserializeTransactions in js/app.js": [
+      {
+        "executionId": "12132e8b-9050-4caa-a456-5592c1b59f5b",
+        "chatSessionId": "sess_d2af785c-653a-4945-aa8c-7907e6610392",
+        "timestamp": 1794585973392
+      }
+    ]
+  }
+}
